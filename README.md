@@ -4,9 +4,11 @@ I've outlined the process at https://lnkd.in/gZFSaB-T. Thanks in big part to [Ze
 
 GPU + CUDA performance improvements were close to 13x in my case (typically 5-10x). 
 
+<img width="1918" height="1015" alt="GeForce-MX150-Inference" src="https://github.com/user-attachments/assets/7d99e659-1747-45be-82de-97f549715bc6" />
 
 
 And finally, when I see my transformer quote Krishna, I know this project was a success:
+<img width="1917" height="567" alt="Sthitapragya-RAG" src="https://github.com/user-attachments/assets/85e68187-264b-47be-aa94-d6740602e8cf" />
 
 
 ### License
